@@ -1,7 +1,7 @@
 # OnePagers Gradient Theme
 
-[![Donate Now](https://img.shields.io/badge/donate-now-brightgreen.svg)](https://donorbox.org/onepagers-themes)  [![license](https://img.shields.io/github/license/haydenryan/onepagers-gradient.svg)]()
-[![GitHub stars](https://img.shields.io/github/stars/haydenryan/onepagers-gradient.svg?style=social&label=Star)]()[![GitHub forks](https://img.shields.io/github/forks/haydenryan/onepagers-gradient.svg?style=social&label=Fork)]()[![GitHub watchers](https://img.shields.io/github/watchers/haydenryan/onepagers-gradient.svg?style=social&label=Watch)]()[![GitHub followers](https://img.shields.io/github/followers/haydenryan.svg?style=social&label=Follow)]()
+[![Donate Now](https://img.shields.io/badge/donate-now-brightgreen.svg)](https://donorbox.org/onepagers-themes) [![Beerpay](https://beerpay.io/haydenryan/OnePagers-gradient/badge.svg?style=plastic)](https://beerpay.io/haydenryan/OnePagers-gradient) [![license](https://img.shields.io/github/license/haydenryan/onepagers-gradient.svg)](https://github.com/haydenryan/OnePagers-gradient)
+[![GitHub stars](https://img.shields.io/github/stars/haydenryan/onepagers-gradient.svg?style=social&label=Star)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub forks](https://img.shields.io/github/forks/haydenryan/onepagers-gradient.svg?style=social&label=Fork)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub watchers](https://img.shields.io/github/watchers/haydenryan/onepagers-gradient.svg?style=social&label=Watch)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub followers](https://img.shields.io/github/followers/haydenryan.svg?style=social&label=Follow)](https://github.com/haydenryan/OnePagers-gradient)
 
 
 #### View the demo (and project website): https://haydenryan.github.io/OnePagers-gradient/
@@ -34,6 +34,7 @@
 | Google Fonts | http://fonts.google.com
 
 ## Installation
+[Download the latest release as a .zip archive](https://github.com/haydenryan/OnePagers-gradient/archive/master.zip)
 To install, simply upload the following files to your host:
 - css/
   - gradients.min.css
