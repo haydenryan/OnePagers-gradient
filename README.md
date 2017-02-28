@@ -1,4 +1,4 @@
-# OnePagers Gradient Theme
+# OnePagers Gradient Website Template
 
 [![Donate Now](https://img.shields.io/badge/donate-now-brightgreen.svg)](https://donorbox.org/onepagers-themes) [![Beerpay](https://beerpay.io/haydenryan/OnePagers-gradient/badge.svg?style=plastic)](https://beerpay.io/haydenryan/OnePagers-gradient) [![license](https://img.shields.io/github/license/haydenryan/onepagers-gradient.svg)](https://github.com/haydenryan/OnePagers-gradient)
 [![GitHub stars](https://img.shields.io/github/stars/haydenryan/onepagers-gradient.svg?style=social&label=Star)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub forks](https://img.shields.io/github/forks/haydenryan/onepagers-gradient.svg?style=social&label=Fork)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub watchers](https://img.shields.io/github/watchers/haydenryan/onepagers-gradient.svg?style=social&label=Watch)](https://github.com/haydenryan/OnePagers-gradient)[![GitHub followers](https://img.shields.io/github/followers/haydenryan.svg?style=social&label=Follow)](https://github.com/haydenryan/OnePagers-gradient)
@@ -6,7 +6,7 @@
 
 #### View the demo (and project website): https://haydenryan.github.io/OnePagers-gradient/
 
-"Gradient" is part of the [OnePagers](https://github.com/haydenryan/OnePagers) collection of sleek single-page website themes by [@haydenryan](https://github.com/haydenryan).
+"Gradient" is part of the [OnePagers](https://github.com/haydenryan/OnePagers) collection of sleek single-page website templates by [@HaydenRyan](https://github.com/haydenryan).
 
   - Fully responsive, based on Bootstrap
   - Valid HTML, clean coding, easy to customise
